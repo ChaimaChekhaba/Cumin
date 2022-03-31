@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnalyserGradle.iml" filepath="$PROJECT_DIR$/AnalyserGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnalyserGradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AnalyserGradle_main.iml" group="AnalyserGradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnalyserGradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AnalyserGradle_test.iml" group="AnalyserGradle" />
+    </modules>
+  </component>
+</project>
